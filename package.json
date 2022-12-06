@@ -1,7 +1,7 @@
 {
-  "name": "@loomhq/electron-click-through-workaround",
+  "name": "@M5150/electron-click-through-workaround",
   "description": "mac work around for transparent click through on electron v7 and up",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "UNLICENSED",
   "gypfile": true,
   "main": "main.js",
